@@ -91,7 +91,7 @@ netflix-content-strategy-2023/
 ├── visuals/
 │   └── (optional charts or exported images)
 ├── README.md
-└── requirements.txt
+
 ```
 
 ---
